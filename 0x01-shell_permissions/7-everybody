@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 444  hello
+mv /tmp/betty /tmp/my_first_directory/
