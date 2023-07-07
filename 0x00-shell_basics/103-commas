@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -almvp5
+ls -amvp5
